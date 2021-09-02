@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dxosen
+- 👀 I’m interested in learn c#
+- 🌱 I’m currently learning c#
+- 📫 Reach me on gabdario2014@gmail.com
