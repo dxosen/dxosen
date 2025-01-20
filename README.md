@@ -6,7 +6,7 @@
 </h1>
 <a align="center">
 <br>
-Hello, my name is Gabriel Dario and i'm a Information Systems student at Faculdade de Informática e Administração Paulista (FIAP).
+Hello, my name is Gabriel Dario, and I am a software engineer dedicated to expanding my expertise in Java and Swift development.
 </a>
 </div>
 <br>
