@@ -12,11 +12,7 @@ Hello, my name is Gabriel Dario, and I am a software engineer dedicated to expan
 <br>
 <br>
 
-<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxosen&show_icons=true&theme=tokyonight)
-
-</div>
 
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
